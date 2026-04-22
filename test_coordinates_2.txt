@@ -1,0 +1,35 @@
+Annual Research Report 2025
+
+The project was conducted from January 15, 2025 to December 10, 2025. 
+During this period, our team completed 47 experiments and collected more than 12,850 samples.
+
+The average temperature during the summer months was 28.5°C, while in winter it dropped to -12.3°C. 
+Humidity levels ranged between 45% and 78%.
+
+Financial summary:
+Total budget allocated: $245,670
+Equipment costs: $89,450
+Travel expenses: $37,920
+Salary payments: $118,300
+
+Contact information:
+Phone: +1 (212) 555-0198
+Phone: +44 20 7946 0958
+Fax: (415) 555-0123
+
+Important dates:
+Project start: 15.01.2025
+Project end: 10.12.2025
+First results published: 03.08.2025
+
+Statistics:
+Success rate: 92.7%
+Error rate: 7.3%
+Average processing time: 3.45 seconds
+Maximum recorded value: 1247.89
+Minimum recorded value: 0.037
+
+Version 2.1.4 was released on April 19, 2025 at 14:35:22.
+
+We would like to thank 128 volunteers who participated in the study. 
+The oldest participant was 67 years old, and the youngest was 19.

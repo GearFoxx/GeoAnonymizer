@@ -1,0 +1,24 @@
+Geolocation Test File - Simple Version
+
+This document contains several location coordinates for testing purposes.
+
+Our research team started working in central London at coordinates 51.5074, -0.1278
+
+Then we moved to Paris and recorded the location: 48.8566, 2.3522
+
+The next stop was Berlin with coordinates 52.5200, 13.4050
+
+In Rome we took measurements at: 41.9028, 12.4964
+
+We also visited Barcelona: 41.3851, 2.1734
+
+Additional test points:
+- Madrid: 40.4168, -3.7038
+- Amsterdam: 52.3702, 4.8952
+- Vienna: 48.2082, 16.3738
+
+Some coordinates appear in different contexts:
+The conference was held at 55.6761, 12.5683 in Copenhagen.
+
+Phone numbers like +44 20 7946 0958 or dates such as 19.04.2025 
+should not be detected as coordinates.
